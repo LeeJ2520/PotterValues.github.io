@@ -40,46 +40,46 @@ questions =
             "I despise mudbloods and blood traitors.",
             "We must expel or exclude muggleborns in order to protect traditional pureblood society.",
             "We should question whether even halfbloods should be allowed to attend Hogwarts."
-        ]],[//Democratic-Authoritarian`
+        ]],[//Muggle equality-Magic supremacy
         [//4
-            "Direct democracy is the best form of government",
-            "People should vote issue by issue themselves",
-            "Representatives rarely represent the nation well"
+            "The Ministry of Magic should be subservient to the muggle government.",
+            "Magical society needs to be held accountable for its crimes against the rest of humanity.",
+            "Magical governments do not have the right to tamper with muggle minds en masse - obliviation squads must be abolished."
         ],
         [//3
-            "It is important that the government follows the majority opinion, even if it is wrong.",
-            "The more people asked, the better chance there is of reaching the best decision.",
-            "Nobody but me can adequately represent my views"
+            "The wizarding world's treatment of muggles is deplorable.",
+            "Where muggles lack in magic, they make up for in ingenuity.",
+            "Wizards should use magic to help muggles."
         ],
         [//2
-            "Elections are an effective way of showing government approval",
-            "Democracy is the worst form of government, except for all the others we've tried.",
-            "Each person should have one vote, each equal to every other"
+            "Mugglebaiting is cruel, and should be banned.",
+            "Muggle protection laws are incredibly important.",
+            "I believe in equality between muggles and wizards."
         ],
         [//1
-            "Democracy is more than a decision-making process.",
-            "People should have the power to choose their leaders",
-            "The government must be by the people for the people"
+            "Wizards share more in common with muggles than they have differences.",
+            "Muggles deserve basic human rights.",
+            "Wizards constantly underestimate the strength of muggles."
         ],
         [//-1
-            "The stronger the leadership, the better.",
-            "Popular opinion is not always right",
-            "Leaders must be strong or a nation will suffer"
+            "Muggle technology can never match up to magic.",
+            "Wizarding society does not have a problem with anti-muggle prejudice.",
+            "It's reasonable to be wary of the treat posed by muggles and muggle society."
         ],
         [//-2
-             "A hierarchical state is best.",
-            "Society could not function without leaders and followers",
-             "Democracy makes it too easy for a majority to further itself at the expense of minorities"
+            "The witch trials showed that muggles cannot be trusted.",
+            "Wizards should be concerned about massive muggle population growth.",
+            "People get too hung up about harmless pranks on muggles."
         ],
         [//-3
-            "The general populace makes poor decisions.",
-             "It is important that we further my group's goals above all others.",
-            "Public opinion swings too much with emotional events to be useful for policy making"
+            "The ministry spends too much time and effort protecting muggles.",
+            "Muggle rights have gone too far.",
+            "If muggles and wizards had the same government, wizards should rule."
         ],
         [//-4
-            "Elections are a waste of resources",
-            "Catering to popular opinion is detrimental to a nation",
-            "A nation must obey its leadership without question"
+            "Muggles are little better than animals.",
+            "Magic gives wizards the right to rule over muggles.",
+            "Hunting muggles for sport is fun."
         ]],[//Globalist-Isolationist
         [//4
             "A united world government would be beneficial to mankind.",
