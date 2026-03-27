@@ -1,45 +1,45 @@
 questions = 
-    [[//Federal-Unitary`
+    [[//Blood equality-Blood supremacy
         [//4
-            "There is no need for a national government",
-            "Subdivisions of nations should have their own militaries",
-            "State laws should have precedence over national laws"
+            "Concerns about 'Pureblood culture' is just a front for prejudice.",
+            "The pureblood aristocracy is a reactionary institution and must be dismantled.",
+            "I would consider myself socialist"
         ],
         [//3
-            "State and local laws should have precedence over national laws",
-            "The national government can't understand what the people need.",
-            "People should hold more loyalty to their local state than their country."
+            "The wealth accumulated by the pureblood elite should be distributed amongst the people.",
+            "There is institutionalised discrimination against muggleborns and it must be combatted.",
+            "In this day and age, it is not acceptable to hold prejudiced blood supremacist views."
         ],
         [//2
-            "Local governments should have more power than they currently do",
-            "Laws should vary from area to area and culture to culture within a country.",
-            "It's a good idea to test a policy in one state rather than implementing it nationwide right away"
+            "There is no such thing as 'lower' and 'higher' blood - the purity of one's blood has nothing to do with your worth as a wizard.",
+            "All wizards are equal, regardless of blood status.",
+            "Having a muggleborn minister of magic is a win for progress."
             
         ],
         [//1
-            "Local governments can understand their citizens better than the national government could",
-            "Local governments address issues that the national government would never touch without them",
-            "Local governments give each region good representation of their views"
+            "If purebloods only every marry purebloods you'll end up with inbreeding.",
+            "A wizard's potential is not purely determined by blood.",
+            "The idea that 'muggleborns steal magic' is a baseless conspiracy theory, and death eater propaganda."
         ],
         [//-1
-            "A country cannot function without a national government",
-            "The national government protects minorities better than some local governments do.",
-            "There are many issues that it does not make sense to address at a local level"
+            "Muggleborns should make more effort to assimilate into wizarding culture.",
+            "Muggleborns are often ignorant of traditional culture of the wizarding world.",
+            "I oppose affirmative action in favour of muggleborns."
         ],
         [//-2
-            "The national government needs more power",
-            "Subdivisions should not be able to exempt from national laws",
-            "People should think of themselves as citizens of their nation rather than their state"
+            "Muggleborns will never be able to truly understand wizarding society.",
+            "Massive influx of muggleborns into wizarding society undermines traditional pureblood culture (and that's a bad thing).",
+            "Salazar Slytherin had a point."
         ],
         [//-3
-            "A group of states without a strong national government is merely an alliance, not a nation",
-            "A national government must be strong to adequately protect all its citizens",
-            "States cannot function without a strong national government"
+            "We shouldn't allow muggleborns into the wizarding world.",
+            "Muggleborns are stealing jobs from purebloods.",
+            "Blood counts for less and less these days, and that's a bad thing."
         ],
         [//-4
-            "There is no need for local or state governments",
-            "Laws should be completely consistent within all regions of a nation",
-            "Strong states weaken a nation"
+            "I despise mudbloods and blood traitors.",
+            "We must expel or exclude muggleborns in order to protect traditional pureblood society.",
+            "We should question whether even halfbloods should be allowed to attend Hogwarts."
         ]],[//Democratic-Authoritarian`
         [//4
             "Direct democracy is the best form of government",
