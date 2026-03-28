@@ -80,286 +80,247 @@ questions =
             "Muggles are little better than animals.",
             "Magic gives wizards the right to rule over muggles.",
             "Hunting muggles for sport is fun."
-        ]],[//Globalist-Isolationist
+        ]],[//Progress-Tradition
         [//4
-            "A united world government would be beneficial to mankind.",
-            "We are first and foremost citizens of Earth",
-            "In order for humanity to survive, we must get past having separate nations"
+            "Wizarding society needs to be fundamentally altered bring it into the modern day.",
+            "Wizard children should attend muggle primary school.",
+            "Muggle culture is superior to wizarding culture."
         ],
         [//3
-            "The United Nations needs more power",
-            "The United Nations should have a military to enforce its resolutions",
-            "Having independent nations with the risk of global conflict creates a large threat to humanity as a whole"
+            "Traditions have no inherent value.",
+            "Wizarding society is stagnant, reactionary, and backwards.",
+            "The wizarding economy needs to embrace the industrial revolution and modern economics."
         ],
         [//2
-            "I support regional unions, such as the European Union.",
-            "Governments should be accountable to the international community.",
-            "Nations fighting among each other gets in the way of progress"
+            
+            "The wizarding world could gain a lot from muggle rationalism and the scientific method.",
+            "Hogwarts should teach muggle subjects like science, maths, or muggle history.",
+            "It would be great if muggle electronics could be used around magic."
         ],
         [//1
-            "International trade is generally beneficial.",
-            "Alliances are important for protecting a nation",
-            "Nations should cooperate whenever it benefits them both"
+            "I love muggle movies, muggle music, muggle literature, and so on.",
+            "Wizards should make more effort to learn about muggle society.",
+            "Muggle culture enriches the wizarding world."
         ],
         [//-1
-            "It is important to maintain our national sovereignty.",
-            "My nation is closer to my views than most nations in the world",
-            "I am proud to be in my country"
+            "Wizards should care about our traditions and customs more.",
+            "Wizarding culture needs to be preserved and protected.",
+            "The wizarding way of doing things is charming and quirky, not backwards."
         ],
         [//-2
-            "International aid is a waste of money.",
-            "Alliances can pose a threat to a nation's sovereignty.",
-            "National cultures are important to protect"
+            "It's arrogant for muggleborns to demand wizards change our ancient traditions.",
+            "It's a good thing that wizarding society changes slower than muggle society; rapid change is bad for a society.",
+            "Wizarding society does not need to be reformed or fixed."
         ],
         [//-3
-            "My nation should stay out of international affairs",
-            "The United Nations should be abolished.",
-            "Nobody in other countries has our best interests in mind"
+            "The wizarding world has nothing to gain from muggle ideas.",
+            "Wizarding society should go back to a previous era, with less muggle influence.",
+            "Traditional wizarding ways of life are increasingly under threat (and that's a bad thing)."
         ],
         [//-4
-            "Diplomacy only hurts nations",
-            "There should not be international law",
-            "Any deals other countries want must be bad for us"
-        ]],[//Militarist-Pacifist
+            "Muggle ideas are dangerous to the wizarding world.",
+            "Muggle media, arts, and entertainment is degenerate filth, and should be banned.",
+            "Wizarding society needs to be purged of muggle influence."
+        ]],[//Creature rights-Human supremacy
         [//4
-            "War is needed to make an economy thrive",
-            "A constant state of war benefits a country",
-            "Only those who serve in the military should be allowed to have influence on who is in power"
+            "All magical beings - goblins, house elves, werewolves, centaurs - should have the same rights as humans.",
+            "We should respect goblin ownership customs, and return stolen goblin artefacts.",
+            "Free the house elves!"
         ],
         [//3
-            "There should be compulsory military service",
-            "Countries that do not serve our interests should be toppled",
-            "Only those who served in the military should be able to gain power in government"
+            "We need laws to protect werewolves from discrimination.",
+            "Goblins have understandable reasons to be distrustful of wizards.",
+            "All werewolves should be able to access wolfsbane."
         ],
         [//2
-            "Military action by our nation is often necessary to protect it.",
-            "Countries that violate human rights should be toppled",
-            "A military option should always be considered"
+            "It would be a bad thing if giants went extinct.",
+            "Wizards should show more respect to non humans.",
+            "Wizards should make more effort to understand the needs and desires of centaurs, merfolk, and goblins."
         ],
         [//1
-            "A government must maintain a strong military to defend itself",
-            "A nation usually needs a military in order to survive",
-            "We should respect those who have served in our military"
+            "It is wrong to physically punish a house elf.",
+            "I feel sympathy for those infected with lycanthropy.",
+            "The fountain of magical brethren is in poor taste."
         ],
         [//-1
-            "It is more important to retain peaceful relations than to further our strength.",
-            "Diplomatic options should always be tried before war is even considered",
-            "Peace is preferable to war whenever possible"
+            "There's nothing wrong with owning a house elf.",
+            "Dark creatures like hags or vampires cannot be trusted.",
+            "It's naive to pretend werewolves or hags are all innocent victims."
         ],
         [//-2
-            "Even when protesting an authoritarian government, violence is not acceptable.",
-            "Lasting peace leads to prosperity",
-            "War usually leads to worse outcomes"
+            "Werewolves should not be allowed to teach.",
+            "The ministry should prioritise the needs of humans over those of non humans.",
+            "Giving magical creatures wands would be a disaster."
         ],
         [//-3
-            "Military spending is a waste of money.",
-            "We have no right to militarily intervene in other nations",
-            "Countries fall apart with constant war"
+            "Werewolves are a danger to society.",
+            "Goblins are inherently untrustworthy.",
+            "Werewolves which infect others should be put down."
         ],
         [//-4
-            "War is never justified",
-            "In the modern era, militaries aren't really necessary",
-            "Nations should not maintain a military"
-        ]],[//Security-Freedom
+            "Non humans are inherently inferior to humans.",
+            "I despise half breeds.",
+            "The world would be better if certain magical beings were made extinct."
+        ]],[//Light magic-Dark magic
         [//4
-            "Those who disagree with the government should be removed from the country",
-            "The government should monitor all citizens to combat terrorism",
-            "People should not have protections that could hinder discovering their criminal activity"
+            "I despise dark magic.",
+            "The church's persecution of dark wizards was justified.",
+            "We shouldn't offensive magic at Hogwarts."
         ],
         [//3
-            "Police need more power and protection",
-            "It is very important to maintain law and order.",
-            "A country must be sure to take all measures to enforce its laws"
+            "Using dark magic is never justified.",
+            "Dark magic damages your soul (and that's bad).",
+            "Regulations on dark magic don't go far enough."
         ],
         [//2
-            "If you have nothing to hide, then you shouldn't care about the government having access to your communications",
-            "The sacrifice of some civil liberties is necessary to protect us from acts of terrorism.",
-            "Government surveillance is necessary in the modern world."
+            "The ministry should do more to crack down on the use of dark magic.",
+            "Access to knowledge of some magic should be restricted from the general public.",
+            "There are some lines that should never be crossed."
         ],
         [//1
-            "The government should have access to the emails of suspected terrorists",
-            "Some freedom must be given up in order to keep people safe",
-            "Absolute freedom makes a society dangerous"
+            "The dementors should be removed from Azkaban.",
+            "It is right that some spells are illegal.",
+            "I would never use the cruciatus curse."
         ],
         [//-1
-            "Marijuana should be legalized",
-            "People should be given freedom whenever it causes little security risk",
-            "The government has no business looking into most people's personal lives"
+            "No magic is inherently evil - it's all about how it's used.",
+            "People need to learn a bit about dark magic in order to be able to defend themselves.",
+            "It's sometimes justified to use dark magic."
         ],
         [//-2
-            "Abortion should be legal in all cases",
-            "Police should be regulated more",
-            "No authority should be left unquestioned."
+            "We shouldn't be overly puritan when it comes to dark magic.",
+            "The ministry wastes too much time regulating dark magic.",
+            "Hysteria about dark magic goes way too far."
         ],
         [//-3
-            "Victimless crimes (such as drug use) should not be crimes at all.",
-            "Most drugs should be legalized",
-            "Whistleblowers should be strongly protected"
+            "I should be allowed to own whatever dark artefacts I like.",
+            "Hogwarts should teach the dark arts.",
+            "Regulations on dark magic only hold the wizarding world back."
         ],
         [//-4
-            "The very existence of the state is a threat to our liberty.",
-            "There should be no police force",
-            "People's freedom should have no limits"
-        ]],[//Equality-Markets`
+            "The 'unforgivable' curses should be legal.",
+            "I see nothing wrong with creating a horcrux.",
+            "There is no good or evil - only power and those too weak to seek it."
+        ]],[//Anti secrecy-Isolation
         [//4
-            "Communism, if implemented correctly, would be a good form of economics",
-            "From each according to his ability, to each according to his need",
-            "Equality of outcome is important"
+            "The statute of secrecy was a mistake.",
+            "Wizards don't have the right to hide the existence of magic.",
+            "The massive proliferation of cameras will eventually make the statute of secrecy unfeasible."
         ],
         [//3
-            "Oppression by corporations is more of a concern than oppression by governments.",
-            "Taxes should be increased on the rich to provide for the poor.",
-            "Public utilities like roads and electricity should be publicly owned."
+            "The statute of secrecy is no longer necessary now that the witch hunts are a thing of the past.",
+            "I'd support greater cooperation between the muggle and magical governments",
+            "We shouldn't have to hide the existence of magic."
         ],
         [//2
-            "I support single-payer, universal healthcare.",
-            "The wealthy have far more than they need",
-            "Basic things needed to live, such as healthcare, are rights"
+            "The ministry spends too much time and resources enforcing the statute of secrecy.",
+            "Every wizard should have at least one muggle friend.",
+            "Wizards should integrate better into muggle society."
         ],
         [//1
-            "It is necessary for the government to intervene in the economy to protect consumers.",
-            "People should have equal opportunity to succeed",
-            "People born to wealthy families have unfair success even when they aren't skilled and don't work hard"
+            "Wizards should keep up to date on the goings on of the muggle world.",
+            "Muggleborns should be able to tell more of their relatives about magic.",
+            "I'd support closer ties between the magical and muggle worlds."
         ],
         [//-1
-            "People should have the right to leave their wealth to their descendents",
-            "Excessive government intervention is a threat to the economy.",
-            "Economies without any capitalism will collapse"
+            "It's better that the wizarding world remains separate from the muggle world.",
+            "The fact that witch hunts still happen in some parts of the world demonstrates that secrecy is still necessary.",
+            "The statute of secrecy gives the wizarding world more freedom."
         ],
         [//-2
-            "It is better to maintain a balanced budget than to ensure welfare for all citizens.",
-            "Capitalism is better than any existing alternative",
-            "Government owned industry is usually a bad idea"
+            "Muggles and wizards will never truly be able to get along.",
+            "Worries that muggle technology will make secrecy unviable are overblown.",
+            "Fewer muggles should be aware of the wizarding world's existence."
         ],
         [//-3
-            "The freer the market, the freer the people",
-            "People should have to work for anything they get",
-            "The poor choose to be poor"
+            "Maintaining the statute of secrecy is more important than petty political squabbles.",
+            "The muggle government shouldn't be aware of the wizarding world's existence.",
+            "The wizarding world should have no interaction with the muggle world."
         ],
         [//-4
-            "The government should not regulate the economy at all",
-            "The government should not break up monopolies",
-            "Those who do not work should die"
-        ]],[//Secular-Religious
+            "Only total isolation from the muggle world can protect wizardkind.",
+            "It is better if wizards never set foot outside the wizarding world.",
+            "Not a single muggle should know about magic."
+        ]],[//Liberty-Authority
         [//4
-            "Religion should be banned",
-            "Faith is complete nonsense",
-            "Religion must decline for society to progress"
+            "The state is unjust and should be dismantled or diminished.",
+            "Give me liberty or give me death",
+            "."
         ],
         [//3
-            "Religious clothing should be banned from public",
-            "There is no higher power",
-            "The government should not fund any religious organizations in any way"
+            "It is deplorable that the only serious newspaper in wizarding Britain is a ministry mouthpiece.",
+            "The ministry of magic has too much power.",
+            "The ministry of magic can't be trusted."
         ],
         [//2
-            "I support gay marriage",
-            "Every religion must be looked upon equally by the government",
-            "Religion should be removed from everything in our government"
+            "The wizengamot should not be both the main legislative body, and the supreme court - separation of powers is important.",
+            "The ministry has too many overbearing regulations, and needs to get off people's backs.",
+            "Corruption and political interference are rife in wizarding Britain's judiciary (and that's bad)."
         ],
         [//1
-            "Religion does not belong in government",
-            "Laws should not be based on religion",
-            "There must be a separation between church and state"
+            "The ministry of magic needs to do more to respect human rights.",
+            "Everyone has the right to a fair trial and a jury.",
+            "The ministry of magic needs greater transparency and accountability."
         ],
         [//-1
-            "I believe there is something after death",
-            "Religion is beneficial for society",
-            "People must be allowed to follow a religion"
+            "The auror force should have more funding.",
+            "",
+            ""
         ],
         [//-2
-            "I believe in a higher power",
-            "Religious organizations often provide better assistance to the poor than the government does",
-            "Children should be educated in religious values."
+            "The magical world needs more government oversight",
+            "",
+            ""
         ],
         [//-3
-            "Religion usually provides the truth",
-            "My religious values should be spread as much as possible.",
-            "Sex outside marriage is immoral."
+            "Democratic processes and checks and balances on power only get in the way of effective governance.",
+            "If it deems it necessary, the ministry should be allowed to imprison someone without trial",
+            "The wizarding world needs a strong leader to solve its problems."
         ],
         [//-4
-            "Theocracy is a good system of government",
-            "The government should support and only recognize one religion",
-            "Most bad things happening in the world are caused by us turning away from religion"
-        ]],[//Progressive-Traditional
+            "The ministry of magic should control the media.",
+            "Wizards shouldn't be taught magic which could be used to overthrow the ministry",
+            ""
+        ]],[//Moderatism-Extremism
         [//4
-            "If AI could rule more effectively than humans, then AI should rule",
-            "Genetic modification is a force for good, even on humans.",
-            "Tradition just hinders the progress of technology"
+            "",
+            "",
+            ""
         ],
         [//3
-            "Automation overall is extremely good for society",
-            "Traditions are of no value on their own.",
-            "When people have already suffered for technology to be developed, we should use that technology"
+            "",
+            "",
+            ""
         ],
         [//2
-            "We should put effort into getting a person on Mars in the near future",
-            "Testing products on animals is ethical",
-            "Technological progress is usually good"
+            "",
+            "",
+            ""
             
         ],
         [//1
-            "Human Caused climate change is currently one of the greatest threats to our way of life.",
-            "Environmental regulations are essential.",
-            "A better world will come from automation, science, and technology."
+            "",
+            "",
+            ""
         ],
         [//-1
-            "To chase progress at all costs is dangerous.",
-            "Technology is not always beneficial",
-            "Traditions are important"
+            "",
+            "",
+            ""
         ],
         [//-2
-            "Technology is negatively affecting modern society",
-            "Genetic modification should be used rarely, if ever",
-            "Maintaining family values is essential."
+            "",
+            "",
+            ""
         ],
         [//-3
-            "Society was better many years ago than it is now.",
-            "It is important that we maintain the traditions of our past.",
-            "The elders in society know the best path for it"
+            "",
+            "",
+            ""
         ],
         [//-4
-            "Traditional medicines are often more effective than modern medicines",
-            "The Internet should be banned",
-            "We must go back to a basic way of life without modern conveniences."
-        ]],[//Assimilationist-Multiculturalist
-        [//4
-            "Foreigners should never enter the country",
-            "We should not allow any refugees",
-            "Only our national language(s) should be spoken in our country"
-        ],
-        [//3
-            "Only extremely talented immigrants, if that, should be permitted to enter the country",
-            "If we accept migrants at all, it is important that they assimilate into our culture.",
-            "Immigrants can never really adapt to our way of life"
-        ],
-        [//2
-            "In general, immigrants are bad for the country",
-            "A nation's culture is important to protect",
-            "Illegal immigrants do not provide a benefit to the hosting country"
-        ],
-        [//1
-            "Illegal immigrants should be deported in most or all cases",
-            "Immigrants should be expected to learn the language of the country",
-            "Border protection is important"
-        ],
-        [//-1
-            "We should be taking in more refugees",
-            "Immigrants are a net positive",
-            "I enjoy some foreign cultures"
-        ],
-        [//-2
-            "No cultures are superior to others.",
-            "We should be more accepting to other cultures",
-            "All societies are a blend of cultures"
-        ],
-        [//-3
-            "Everybody should speak at least two languages",
-            "All humans share a common identity",
-            "Our culture would be better with other cultures mixed in more"
-        ],
-        [//-4
-            "Governments should be as concerned about foreign citizens as they are about those within their borders.",
-            "Anybody who wants to enter the country should be able to",
-            "The benefits of open borders would outweigh the costs"
+            "",
+            "",
+            ""
         ]
     ]];
