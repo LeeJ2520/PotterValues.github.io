@@ -244,8 +244,8 @@ questions =
         ]],[//Liberty-Authority
         [//4
             "The state is unjust and should be dismantled or diminished.",
-            "Give me liberty or give me death",
-            "."
+            "Aurors should not be allowed to employ lethal force.",
+            "accountability, no minister, presidentialism.................."
         ],
         [//3
             "It is deplorable that the only serious newspaper in wizarding Britain is a ministry mouthpiece.",
@@ -264,23 +264,23 @@ questions =
         ],
         [//-1
             "The auror force should have more funding.",
-            "",
-            ""
+            "In times of crisis it is necessary for the ministry to be given extraordinary powers.",
+            "During wartime, citizens should put greviances aside and rally behind the ministry."
         ],
         [//-2
             "The magical world needs more government oversight",
-            "",
-            ""
+            "The ministry should have greater oversight of Hogwarts.",
+            "The wizarding world needs a strong leader to solve its problems."
         ],
         [//-3
             "Democratic processes and checks and balances on power only get in the way of effective governance.",
             "If it deems it necessary, the ministry should be allowed to imprison someone without trial",
-            "The wizarding world needs a strong leader to solve its problems."
+            "It is reasonable for the ministry to deny the existence of dangerous dark wizards in order to prevent public panic."
         ],
         [//-4
-            "The ministry of magic should control the media.",
-            "Wizards shouldn't be taught magic which could be used to overthrow the ministry",
-            ""
+            "The ministry of magic should have total control of the media.",
+            "Wizards shouldn't be taught magic which could be used to overthrow the ministry.",
+            "I'd support the ministry implementing mass surveillance and a secret police force."
         ]],[//Moderatism-Extremism
         [//4
             "",
